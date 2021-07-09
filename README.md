@@ -8,4 +8,5 @@ I'm Debora Cristina Fontanella, I'm 23 years old.
 - 🎓 Graduated in Software Engineering and at this moment taking post graduate in Software Engineering.
 - 📚 Always searching for knowledge
 - 💬 I speak portuguese (native), english and spanish
+- 🌎 I'm from Santa Catarina, Brazil
 - 📫 How to reach me: fcristinadebora@gmail.com or [LinkedIn](https://www.linkedin.com/in/dcfontanella/)
