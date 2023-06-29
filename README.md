@@ -1,6 +1,6 @@
 ### Hi there 🙋
 
-I'm Debora Cristina Fontanella, I'm 24 years old.
+I'm Debora Cristina Fontanella, I'm 25 years old.
 
 - 😄 My pronouns are ela/ella/she
 - 📄 My resume: [PT(BR)](./RESUME_DEBORA-CRISTINA-FONTANELLA-PT.pdf) | [EN](./RESUME_DEBORA-CRISTINA-FONTANELLA-EN.pdf)
